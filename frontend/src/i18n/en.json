@@ -1,0 +1,23 @@
+{
+  "title": "To-Do List",
+  "add": "Add",
+  "description": "Description",
+  "status": "Status",
+  "delete": "Delete",
+  "edit": "Edit",
+  "language": "Language",
+  "open": "Open",
+  "in_progress": "In Progress",
+  "done": "Done",
+  "search": "Search…",
+  "filter_status": "Filter status",
+  "sort_by": "Sort by",
+  "sort_title": "Title",
+  "sort_status": "Status",
+  "empty": "No tasks found.",
+  "loading": "Loading…",
+  "save": "Save",
+  "cancel": "Cancel",
+  "error_generic": "Something went wrong.",
+  "title_required": "Title is required."
+}

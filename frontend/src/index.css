@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply text-gray-800; }
+
+* { scroll-behavior: smooth; }
+button { transition: all 150ms ease; }
+input { transition: border-color 150ms ease, box-shadow 150ms ease; }
+input:focus { outline: none; box-shadow: 0 0 0 3px rgba(59,130,246,0.2); }

@@ -1,0 +1,23 @@
+{
+  "title": "To-Do-Liste",
+  "add": "Hinzufügen",
+  "description": "Beschreibung",
+  "status": "Status",
+  "delete": "Löschen",
+  "edit": "Bearbeiten",
+  "language": "Sprache",
+  "open": "Offen",
+  "in_progress": "In Bearbeitung",
+  "done": "Erledigt",
+  "search": "Suche…",
+  "filter_status": "Status filtern",
+  "sort_by": "Sortieren nach",
+  "sort_title": "Titel",
+  "sort_status": "Status",
+  "empty": "Keine Aufgaben gefunden.",
+  "loading": "Laden…",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "error_generic": "Etwas ist schief gelaufen.",
+  "title_required": "Titel ist erforderlich."
+}
