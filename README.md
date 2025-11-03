@@ -1,4 +1,4 @@
-# 📝 To-Do App (Django REST + React + TypeScript + Tailwind)
+#  To-Do App (Django REST + React + TypeScript + Tailwind)
 A small full-stack To-Do application that demonstrates a clean REST API, search/filter/sort, pagination, and a responsive UI.
 
 ## Features
